@@ -1,0 +1,17 @@
+.container {
+  height: 40px;
+  width: 360px;
+  display: flex;
+}
+.cell {
+  height: 40px;
+  width: 40px;
+  border: 2px solid black;
+  background-color: grey;
+}
+#green {
+  background-color: green;
+}
+#red {
+  background-color: red;
+}
